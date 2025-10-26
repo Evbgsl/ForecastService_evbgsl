@@ -30,3 +30,5 @@ bin/
 
 # Config (секретные данные)
 src/config.properties
+
+target/
