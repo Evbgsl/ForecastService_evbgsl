@@ -27,3 +27,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Config (секретные данные)
+src/config.properties
+
+target/
